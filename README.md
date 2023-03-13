@@ -1,5 +1,5 @@
 
-# Global_AI_Hub
+# Global AI Hub
 Global AI Hub Akbank Bootcamp
 
 ## PİZZA SİPARİŞ SİSTEMİ 
